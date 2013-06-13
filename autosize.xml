@@ -20,6 +20,11 @@
 		<language tag="pt-BR">pt-BR/pt-BR.plg_system_autosize.ini</language>
 		<language tag="pt-BR">pt-BR/pt-BR.plg_system_autosize.sys.ini</language>
 	</languages>
+	<media destination="plg_system_autosize" folder="media">
+		<folder>css</folder>
+		<folder>js</folder>
+		<filename>index.html</filename>
+	</media>
 	<config>
 		<fields name="params">
 			<fieldset name="basic">
